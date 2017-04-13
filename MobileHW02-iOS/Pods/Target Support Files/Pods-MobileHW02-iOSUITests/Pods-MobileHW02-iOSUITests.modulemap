@@ -1,0 +1,6 @@
+framework module Pods_MobileHW02_iOSUITests {
+  umbrella header "Pods-MobileHW02-iOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

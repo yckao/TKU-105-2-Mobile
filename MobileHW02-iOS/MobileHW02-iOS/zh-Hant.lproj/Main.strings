@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Kao Yi Cheng"; ObjectID = "64z-Vq-Tgv"; */
+"64z-Vq-Tgv.text" = "高宜誠";
+
+/* Class = "UILabel"; text = "404411083"; ObjectID = "82V-4k-4eu"; */
+"82V-4k-4eu.text" = "404411083";
+
+/* Class = "UIButton"; normalTitle = "Blackout"; ObjectID = "DEq-tI-hfg"; */
+"DEq-tI-hfg.normalTitle" = "熄滅";
+
+/* Class = "UINavigationItem"; title = "MobileHW02"; ObjectID = "kEZ-86-5dG"; */
+"kEZ-86-5dG.title" = "MobileHW02";
+
+/* Class = "UIButton"; normalTitle = "Light Up"; ObjectID = "uvl-9q-7eQ"; */
+"uvl-9q-7eQ.normalTitle" = "點亮";

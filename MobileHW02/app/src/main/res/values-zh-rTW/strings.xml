@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileHW02</string>
+    <string name="click">按下</string>
+    <string name="openLight">點亮</string>
+    <string name="closeLight">熄滅</string>
+    <string name="myName">高宜誠</string>
+</resources>

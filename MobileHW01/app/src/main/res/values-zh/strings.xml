@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileHW01</string>
+    <string name="name">名字</string>
+    <string name="email">信箱</string>
+    <string name="enter_your_email">輸入你的信箱</string>
+    <string name="enter_your_name">輸入你的名字</string>
+</resources>

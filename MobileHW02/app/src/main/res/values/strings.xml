@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobileHW02</string>
+    <string name="click">clicked</string>
+    <string name="openLight">Light up</string>
+    <string name="closeLight">Blackout</string>
+    <string name="myName">Kao Yi Cheng</string>
+</resources>
